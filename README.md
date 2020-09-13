@@ -3,9 +3,7 @@
 
 To serve while developing:
 
-(website is managed using hugo, try `brew install hugo`)
-
 ```sh
-hugo serve --disableFastRender
+python3 -m http.server
 ```
 
